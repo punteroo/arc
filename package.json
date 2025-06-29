@@ -9,11 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroui/button": "^2.2.22",
+    "@heroui/card": "^2.2.21",
+    "@heroui/dropdown": "^2.3.22",
+    "@heroui/image": "^2.2.14",
+    "@heroui/react": "^2.8.0-beta.10",
+    "@heroui/system": "2.4.18",
+    "@heroui/theme": "2.4.17",
     "axios": "^1.10.0",
+    "discord.js": "^14.21.0",
+    "framer-motion": "12.19.2",
     "next": "15.3.4",
     "next-auth": "^5.0.0-beta.29",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "webpack": "^5.99.9"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
