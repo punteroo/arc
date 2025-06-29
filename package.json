@@ -1,5 +1,5 @@
 {
-  "name": "--use-tailwind",
+  "name": "arc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
